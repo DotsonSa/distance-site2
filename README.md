@@ -1,0 +1,4 @@
+# Distance-Site 2
+To help me understand git and make sure I have an okay backup of my first work online so I don't lose it. All the changes I want to make too it are going to be done on here. My first site will still look ugly, oh well. I still might change or mess around with it, but for now I have this.
+
+  This site will be used to show off as I don't have a portfolio up. This being a simple site about marathon running and why I love it, trained for it, and some general reference about distance running. It's conents are most likely not enough for actual use, but it will be enough to get a better idea about marathon running and what it took for one person. If you know more, have links to places that know more, or could fix this site up a bit, go ahead and add to it with however github does it, forks and stuff I think. I really should mess around with it more.
